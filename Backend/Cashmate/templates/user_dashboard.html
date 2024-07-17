@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Your head content -->
+</head>
+<body>
+    <!-- Header/navigation menu -->
+    <nav>
+        <!-- Other navigation links -->
+        <a href="{% url 'initiate_transaction' %}">Initiate Transaction</a>
+        <a href="{% url 'transaction_history' %}">Transaction History</a>
+    </nav>
+
+    <!-- User-specific content -->
+    <h1>Welcome, {{ user.username }}!</h1>
+    <!-- Other user-specific information and actions -->
+
+    <!-- Your footer content -->
+</body>
+</html>
