@@ -1,0 +1,93 @@
+/* Add this CSS to your component or in a separate stylesheet */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  header {
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  .loading {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Style for the current balance */
+  .current-balance {
+    margin-top: 70px;
+    font-size: 60px; 
+    font-weight: bold;
+    color: black;
+  }
+/* Updated CSS for Transactions component with the extra feature */
+
+/* ... Previous styles ... */
+
+/* Styles for the send money form */
+form {
+    margin-top: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  /* ... Remaining styles ... */
+  

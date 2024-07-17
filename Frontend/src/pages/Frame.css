@@ -1,0 +1,291 @@
+.bankmain-child {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 756px);
+    background: radial-gradient(50% 50%at 50% 50%, #0d318e, #0d318e);
+    width: 1512px;
+    height: 982px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: 91px;
+    background-color: var(--color-mediumblue);
+    width: 199px;
+    height: 59px;
+  }
+  .cashmate4,
+  .rectangle-group {
+    position: absolute;
+    background: radial-gradient(50% 50%at 50% 50%, #0d318e, #0d318e);
+    width: 381px;
+  }
+  .cashmate4 {
+    top: 0;
+    left: 0;
+    display: inline-block;
+    height: 51px;
+    -webkit-text-stroke: 1px #000;
+  }
+  .rectangle-group {
+    top: 86px;
+    left: -70px;
+    height: 59px;
+    font-size: var(--font-size-21xl);
+    color: var(--color-red);
+  }
+  .stocks1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 80px;
+    height: 28px;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .stocks-container,
+  .virtual-curruncies4 {
+    position: absolute;
+    top: 103px;
+    left: 250px;
+    width: 80px;
+    height: 28px;
+  }
+  .virtual-curruncies4 {
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 223px;
+    text-decoration: none;
+    color: white;
+  }
+  .group-div,
+  .virtual-curruncies5 {
+    position: absolute;
+    top: 107px;
+    left: 384px;
+    width: 223px;
+    height: 28px;
+    text-decoration: none;
+    color: white;
+  }
+  .virtual-curruncies5 {
+    top: 0;
+    left: 0;
+    display: inline-block;
+    width: 83px;
+  }
+  .virtual-curruncies-wrapper1 {
+    position: absolute;
+    top: 107px;
+    left: 661px;
+    width: 83px;
+    height: 28px;
+  }
+  .virtual-curruncies6 {
+    position: relative;
+    display: inline-block;
+    width: 86px;
+    flex-shrink: 0;
+    text-decoration: none;
+    
+    
+  }
+
+  .virtual-curruncies-wrapper2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 109px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-5xs) var(--padding-xs);
+    align-items: center;
+    justify-content: flex-start;
+    text-decoration: none;
+    cursor: pointer; 
+}
+
+    
+  
+  .bankmain-inner {
+    position: absolute;
+    top: 100px;
+    left: 1227px;
+    width: 109px;
+    height: 45px;
+  }
+  .virtual-curruncies-wrapper3 {
+    position: absolute;
+    top: 100px;
+    left: 1371px;
+    background-color: var(--color-white);
+    width: 109px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-5xs) var(--padding-xs);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: flex-start;
+    color: var(--color-midnightblue);
+  }
+  .group-child2 {
+    position: absolute;
+    top: -197.92px;
+    left: 71.04px;
+    border-radius: var(--br-21xl);
+    width: 592.57px;
+    height: 561.37px;
+  }
+  .cashmate5,
+  .vector-parent1 {
+    position: absolute;
+    top: -68.49px;
+    left: 373.03px;
+    transform: rotate(-38.76deg);
+    transform-origin: 0 0;
+  }
+  .vector-parent1 {
+    top: 248.17px;
+    left: 42px;
+    width: 600.61px;
+    height: 454.28px;
+    transform: rotate(-24.41deg);
+  }
+  .group-child3 {
+    position: absolute;
+    top: -190.66px;
+    left: 8.66px;
+    border-radius: var(--br-21xl);
+    width: 583.29px;
+    height: 436.97px;
+  }
+  .cashmate6 {
+    position: absolute;
+    top: -100.76px;
+    left: 368px;
+    transform: rotate(-14.36deg);
+    transform-origin: 0 0;
+  }
+  .group-child4,
+  .vector-parent2 {
+    position: absolute;
+    top: 223px;
+    left: 97px;
+    width: 600.61px;
+    height: 454.28px;
+  }
+  .group-child4 {
+    top: -150.72px;
+    left: -65.51px;
+    border-radius: var(--br-21xl);
+    width: 588.95px;
+    height: 454.49px;
+  }
+  .group-child5 {
+    top: 186.38px;
+    left: 41.45px;
+    width: 129.29px;
+    height: 32.09px;
+    display: none;
+  }
+  .abdelrahman-ismail1,
+  .cashmate7,
+  .group-child5 {
+    position: absolute;
+    transform: rotate(17.07deg);
+    transform-origin: 0 0;
+  }
+  .abdelrahman-ismail1 {
+    top: 110px;
+    left: -34.77px;
+    display: inline-block;
+    width: 275px;
+    height: 33px;
+  }
+  .cashmate7 {
+    top: 10.46px;
+    left: 367.26px;
+  }
+  .div2 {
+    top: 5.4px;
+    left: -60px;
+    font-size: var(--font-size-8xl);
+    letter-spacing: 0.4em;
+    display: inline-block;
+    width: 584px;
+    height: 46px;
+  }
+  .div2,
+  .div3,
+  .vector-parent3 {
+    position: absolute;
+    transform: rotate(17.07deg);
+    transform-origin: 0 0;
+  }
+  .div3 {
+    top: 225px;
+    left: 363.17px;
+    display: inline-block;
+    width: 86px;
+  }
+  .vector-parent3 {
+    top: 330px;
+    left: 97.46px;
+    width: 584px;
+    height: 332px;
+  }
+  .bankmain-inner1,
+  .group-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 776.65px;
+    height: 818.81px;
+  }
+  .bankmain-inner1 {
+    top: 145px;
+    left: 703px;
+  }
+  .empower-your-financial1 {
+    margin: 0;
+  }
+  .empower-your-financial-container1 {
+    position: absolute;
+    top: 248px;
+    left: 58px;
+    font-size: var(--font-size-21xl);
+    font-weight: 800;
+    color: var(--color-black);
+    display: inline-block;
+    width: 582px;
+    height: 459px;
+  }
+  .bankmain {
+    position: relative;
+    background-color: var(--color-white);
+    width: 1512px;
+    height: 982px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .bankmain-parent {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  Link{
+    text-decoration: none;
+
+  }

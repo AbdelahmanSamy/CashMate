@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  --font-inter: Inter;
+
+  --font-size-21xl: 40px;
+  --font-size-5xl: 24px;
+  --font-size-8xl: 27px;
+
+  --color-white: #fff;
+  --color-black: #000;
+  --color-midnightblue: #0d318e;
+  --color-red: #ff0000;
+  --color-mediumblue: #0047ff;
+
+  --padding-5xs: 8px;
+  --padding-xs: 12px;
+
+  --br-21xl: 40px;
+}
